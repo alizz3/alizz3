@@ -1,4 +1,4 @@
-Hi 🐱‍💻 My name is Aliz Mejía ♡
+Hi 🐱‍💻 I'm  is Aliz Mejía ♡
 ====================================
 
 Frontend Web Developer
