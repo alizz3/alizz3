@@ -1,12 +1,14 @@
+
+<h1 align="center"> Hi!♡ I'm.. </h1>
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/c6c46c769a7d81e2c19d9c44fcaf6753e174beb8/img/Group%206.svg" alt="" width="360" >
 
 </p>
 
-<h1 align="center"> Hi 🐱‍💻 I'm Aliz Mejía ♡ </h1>
 
-<h3 align="center">I'm frontend developer</h3>
+<h3 align="center">I'm frontend developer 🐱‍💻</h3>
 
 I am 18 years old, I am starting in the world of FrontEnd I started in it just out of curiosity, and now I enjoy every moment that I develop in it, every stage of learning, success or error, always trying to find the best version of myself. Belonging to the world of technology allows me to be myself and create new things without limiting my imagination 👩🏻‍🚀🚀 
 
