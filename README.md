@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/97590e27d0b6e1bb4aea056998e93d78c2c245df/img/Group%206.svg" alt="" width="360" >
+<img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/c6c46c769a7d81e2c19d9c44fcaf6753e174beb8/img/Group%206.svg" alt="" width="360" >
 
 </p>
 
