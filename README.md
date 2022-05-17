@@ -15,7 +15,7 @@ I am 18 years old, I am starting in the world of FrontEnd I started in it just o
   "El mejor modo de predecir el futuro es inventándolo" - Alan Kay
 
 * 🌍  I'm based in Bogotá, Colombia
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript and React
 * 🤖  The metaverse and Artificial Intelligence catches my attention
 * 😄  Pronouns: Ella/She/Her
 * ⚡  Fun fact: I love cows 🐮
