@@ -25,7 +25,7 @@ I am 18 years old, I am starting in the world of FrontEnd I started in it just o
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://git-scm.com/about" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/c6c7acdd03dbae59c9965ebdace508ad43027763/img/git-original.svg" width="36" height="36" alt="GIT" /></a>
+<a href="https://doblezz.notion.site/Git-Bash-4d70ae2293944826ad333dc4b2c97660" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/c6c7acdd03dbae59c9965ebdace508ad43027763/img/git-original.svg" width="36" height="36" alt="GIT" /></a>
 <a href="https://git-scm.com/about" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/6f6ddf1ad67276ce76856b11bb57c2834c19d52d/img/github-original.svg" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"></a>
