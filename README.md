@@ -10,7 +10,11 @@
 
 <h3 align="center">I'm frontend developer 🐱‍💻</h3>
 
-I am 18 years old, I am starting in the world of FrontEnd I started in it just out of curiosity, and now I enjoy every moment that I develop in it, every stage of learning, success or error, always trying to find the best version of myself. Belonging to the world of technology allows me to be myself and create new things without limiting my imagination 👩🏻‍🚀🚀 
+Software programming student with knowledge in desktop and responsive web programming, as well as interface design through the use of Figma mockups. I consider myself a resourceful person with great capacity to adapt to work teams, always seeking to learn and improve. Currently, I am looking for an opportunity to apply my skills and knowledge in the job market.
+
+In addition to my technical skills, I have interpersonal skills that allow me to communicate effectively with my colleagues and clients. I focus on understanding users' needs to create software solutions that satisfy their requirements and exceed their expectations in the visual field. I am also committed to continuous improvement, so I am willing to take courses and attend conferences to stay up-to-date with the latest software development trends and technologies. My goal is to contribute to the success of the company I work for through my passion for programming and problem-solving skills.
+
+Belonging to the computer world allows me to be myself and create new things without limiting my imagination 👩🏻‍🚀🚀. 
 
   "El mejor modo de predecir el futuro es inventándolo" - Alan Kay
 
