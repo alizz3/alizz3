@@ -9,6 +9,7 @@
   <a href="https://aliz-mejia.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portafolio-oscuro.webp"><img src="assets/btn-portafolio-claro.webp" alt="Ver mi portafolio" height="42"></picture></a>
   <a href="https://www.linkedin.com/in/alizz-doblezz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-oscuro.webp"><img src="assets/btn-linkedin-claro.webp" alt="LinkedIn" height="42"></picture></a>
   <a href="mailto:dev.doblezz@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-correo-oscuro.webp"><img src="assets/btn-correo-claro.webp" alt="dev.doblezz@gmail.com" height="42"></picture></a>
+  <a href="https://buymeacoffee.com/alizz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cafe-oscuro.webp"><img src="assets/btn-cafe-claro.webp" alt="Invítame un café" height="42"></picture></a>
 </p>
 
 <br>
@@ -128,6 +129,13 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alizz3/alizz3/output/stats-oscuro.svg">
+    <img src="https://raw.githubusercontent.com/alizz3/alizz3/output/stats-claro.svg" alt="Mis estadísticas de GitHub: repos públicos, commits del año, rachas y lenguajes que más uso" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alizz3/alizz3/output/snake-oscuro.svg">
     <img src="https://raw.githubusercontent.com/alizz3/alizz3/output/snake-claro.svg" alt="Una culebrita se come mi gráfico de contribuciones de GitHub" width="100%">
   </picture>
@@ -137,4 +145,8 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
 
 <p align="center">
   <i>"El mejor modo de predecir el futuro es inventándolo."</i> — Alan Kay
+</p>
+
+<p align="center">
+  <sub>¿Te sirvió algo de lo que hago? <a href="https://buymeacoffee.com/alizz">Invítame un café</a> y me ayudas a seguir construyendo.</sub>
 </p>

@@ -1,4 +1,4 @@
-# Genera la culebrita que se come el gráfico de contribuciones, con los colores de la marca.
+# Genera la culebrita que se come el gráfico de contribuciones y mis estadísticas, con los colores de la marca.
 # Se actualiza sola cada día y se publica en la rama "output".
 name: Culebrita de contribuciones
 
@@ -17,6 +17,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Estadísticas con mi estilo
+        run: node .github/scripts/stats.mjs ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
