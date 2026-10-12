@@ -1,56 +1,77 @@
-
-<h1 align="center"> Hi!♡ I'm.. </h1>
+<a href="https://aliz-mejia.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-oscuro.svg">
+    <img src="assets/banner-claro.svg" alt="Aliz Mejía · Desarrolladora de software. Construyo aplicaciones web completas: la base de datos, la lógica y una interfaz que se entiende a la primera." width="100%">
+  </picture>
+</a>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/c6c46c769a7d81e2c19d9c44fcaf6753e174beb8/img/Group%206.svg" alt="" width="360" >
-
+  <a href="https://aliz-mejia.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portafolio-oscuro.webp"><img src="assets/btn-portafolio-claro.webp" alt="Ver mi portafolio" height="42"></picture></a>
+  <a href="https://www.linkedin.com/in/alizz-doblezz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-oscuro.webp"><img src="assets/btn-linkedin-claro.webp" alt="LinkedIn" height="42"></picture></a>
+  <a href="mailto:dev.doblezz@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-correo-oscuro.webp"><img src="assets/btn-correo-claro.webp" alt="dev.doblezz@gmail.com" height="42"></picture></a>
+  <a href="https://wa.me/573113071168"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-oscuro.webp"><img src="assets/btn-whatsapp-claro.webp" alt="WhatsApp" height="42"></picture></a>
 </p>
 
+<br>
 
-<h3 align="center">I'm frontend developer 🐱‍💻</h3>
+## ✦ Hola, soy Aliz
 
-Software programming student with knowledge in desktop and responsive web programming, as well as interface design through the use of Figma mockups. I consider myself a resourceful person with great capacity to adapt to work teams, always seeking to learn and improve. Currently, I am looking for an opportunity to apply my skills and knowledge in the job market.
+Desarrolladora de software en Villavicencio, Colombia. Construyo aplicaciones web de punta a punta: **tiendas, dashboards e integraciones con APIs** que hoy usan personas reales. Me importa tanto la base de datos como el logo, y antes de escribir código pregunto quién lo va a usar y desde qué celular.
 
-In addition to my technical skills, I have interpersonal skills that allow me to communicate effectively with my colleagues and clients. I focus on understanding users' needs to create software solutions that satisfy their requirements and exceed their expectations in the visual field. I am also committed to continuous improvement, so I am willing to take courses and attend conferences to stay up-to-date with the latest software development trends and technologies. My goal is to contribute to the success of the company I work for through my passion for programming and problem-solving skills.
+- 💼 Trabajé 2 años y medio en **Andrec Corporation** (Odoo 16, desarrollo web y diseño). Hoy hago proyectos **freelance**.
+- 🎓 Estudio **Ingeniería de Sistemas** en la Universidad del Tolima. Soy **técnica en Programación de Software** del SENA.
+- 🔎 Busco un puesto de desarrollo **remoto** y proyectos de tiendas, dashboards y herramientas internas.
+- 🐮 Dato curioso: amo las vacas. Por eso MuMu tiene una vaquita que te dice qué hacer.
 
-Belonging to the computer world allows me to be myself and create new things without limiting my imagination 👩🏻‍🚀🚀. 
+<details>
+<summary><b>🇬🇧 English</b></summary>
+<br>
 
-  "El mejor modo de predecir el futuro es inventándolo" - Alan Kay
+Software developer based in Villavicencio, Colombia. I build web apps end to end: **online stores, dashboards and API integrations** that real people use today. I care about the database as much as the logo, and before writing code I ask who will use it and on what phone.
 
-* 🌍  I'm based in Bogotá, Colombia
-* 🧠  I'm learning JavaScript and React
-* 🤖  The metaverse and Artificial Intelligence catches my attention
-* 😄  Pronouns: Ella/She/Her
-* ⚡  Fun fact: I love cows 🐮
+- 💼 Two and a half years at **Andrec Corporation** (Odoo 16, web development and design). Now working **freelance**.
+- 🎓 Studying **Systems Engineering** at Universidad del Tolima. **Software Programming Technician** (SENA).
+- 🔎 Open to **remote** developer roles and freelance projects: stores, dashboards and internal tools.
+- 🐮 Fun fact: I love cows. That's why MuMu has a little cow that tells you what to do next.
 
-### Skills
+</details>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://doblezz.notion.site/Git-Bash-4d70ae2293944826ad333dc4b2c97660" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/c6c7acdd03dbae59c9965ebdace508ad43027763/img/git-original.svg" width="36" height="36" alt="GIT" /></a>
-<a href="https://git-scm.com/about" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/alizz3/Los-padrinos-magicos/6f6ddf1ad67276ce76856b11bb57c2834c19d52d/img/github-original.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"></a>
+<br>
+
+## ✦ Proyectos destacados
+
+<p align="center">
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/mumu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-mumu-oscuro.webp"><img src="assets/proyecto-mumu-claro.webp" alt="MuMu: sistema operativo personal con Vue 3, Firebase e integraciones con Gmail, Calendar, Classroom y Moodle" width="49%"></picture></a>
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/el-taller-de-vane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-el-taller-de-vane-oscuro.webp"><img src="assets/proyecto-el-taller-de-vane-claro.webp" alt="El Taller de Vane: tienda en línea y dashboard de pedidos con React y Firebase" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/exe-presentaciones"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-exe-presentaciones-oscuro.webp"><img src="assets/proyecto-exe-presentaciones-claro.webp" alt=".EXE: presentaciones web con control remoto desde el celular, sincronizadas en tiempo real" width="49%"></picture></a>
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/emily-pizza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-emily-pizza-oscuro.webp"><img src="assets/proyecto-emily-pizza-claro.webp" alt="Emily Pizza: menú digital con pedidos por WhatsApp y panel de agotados en vivo" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/cuidapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-cuidapp-oscuro.webp"><img src="assets/proyecto-cuidapp-claro.webp" alt="Cuidapp: app de acompañamiento de salud con lectura de medicamentos por foto" width="49%"></picture></a>
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/maletica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-maletica-oscuro.webp"><img src="assets/proyecto-maletica-claro.webp" alt="Maletica: planeador de maleta y outfits con Vue 3 y Firebase" width="49%"></picture></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.behance.com/alizz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/Aliizz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/alizz_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/alizz3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alizz._.m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aliz-mejía-353b831ab/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/users/284385/aliz-mejía" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="center">
+  <a href="https://aliz-mejia.vercel.app/#/proyectos"><b>Ver todos mis proyectos →</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://aliz-mejia.vercel.app/#lab"><b>Probar las demos interactivas →</b></a>
 </p>
 
-### Badges
+<br>
 
-<b>My GitHub Stats</b>
+## ✦ Tecnologías que uso
 
-<a href="http://www.github.com/alizz3"><img src="https://github-readme-stats.vercel.app/api?username=alizz3&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="alizz3's GitHub stats" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-oscuro.webp">
+    <img src="assets/stack-claro.webp" alt="React, Vue, JavaScript, Firebase, Vite, Tailwind, Python, Odoo, PHP, MySQL, Git, Vercel y Figma" width="100%">
+  </picture>
+</p>
 
-<a href="http://www.github.com/alizz3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alizz3&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
 
-<a href="https://github.com/alizz3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizz3&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/alizz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="center">
+  <i>"El mejor modo de predecir el futuro es inventándolo."</i> — Alan Kay
+</p>
