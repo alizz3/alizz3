@@ -24,15 +24,17 @@ async function load() {
   if (demo) return { repos: 24, commitsYear: 812, contribYear: 1340, streak: 9, best: 31, langs: [['Vue', 41], ['JavaScript', 27], ['CSS', 12], ['HTML', 9], ['Python', 6], ['PHP', 5]] }
   const year = new Date().getUTCFullYear()
   const d = await gql(`query($login:String!,$from:DateTime!){ user(login:$login){
-    repositories(ownerAffiliations:OWNER, isFork:false, privacy:PUBLIC, first:100){ totalCount nodes{ name languages(first:10, orderBy:{field:SIZE, direction:DESC}){ edges{ size node{ name } } } } }
+    repositories(ownerAffiliations:OWNER, isFork:false, privacy:PUBLIC, first:100){ totalCount nodes{ name languages(first:15, orderBy:{field:SIZE, direction:DESC}){ edges{ size node{ name } } } } }
     anio: contributionsCollection(from:$from){ totalCommitContributions restrictedContributionsCount }
     ultimo: contributionsCollection{ contributionCalendar{ totalContributions weeks{ contributionDays{ date contributionCount } } } }
   } }`, { login, from: `${year}-01-01T00:00:00Z` })
   const u = d.user
+  // Estilos y marcado no cuentan como lenguajes de programación
+  const IGNORAR = new Set(['CSS', 'SCSS', 'Sass', 'Less', 'Stylus', 'HTML'])
   const bytes = {}
   for (const r of u.repositories.nodes) {
     if (r.name.toLowerCase() === login.toLowerCase()) continue // el README no cuenta
-    for (const e of r.languages.edges) bytes[e.node.name] = (bytes[e.node.name] || 0) + e.size
+    for (const e of r.languages.edges) if (!IGNORAR.has(e.node.name)) bytes[e.node.name] = (bytes[e.node.name] || 0) + e.size
   }
   const total = Object.values(bytes).reduce((a, b) => a + b, 0) || 1
   let langs = Object.entries(bytes).sort((a, b) => b[1] - a[1]).map(([n, s]) => [n, (s / total) * 100])
@@ -61,7 +63,7 @@ const num = (n) => Math.round(n).toLocaleString('es-CO')
 
 function svg(s, t) {
   const W = 900, H = 322
-  const tiles = [['Repos públicos', s.repos], [`Commits en ${new Date().getUTCFullYear()}`, s.commitsYear], ['Racha actual', `${s.streak} ${s.streak === 1 ? 'día' : 'días'}`], ['Mejor racha', `${s.best} días`]]
+  const tiles = [['Repos públicos', s.repos], [`Contribuciones en ${new Date().getUTCFullYear()}`, s.commitsYear], ['Racha actual', `${s.streak} ${s.streak === 1 ? 'día' : 'días'}`], ['Mejor racha', `${s.best} días`]]
   const tw = 196, th = 92, gap = 14, x0 = 32, y0 = 92
   const tileSvg = tiles.map(([l, v], k) => {
     const x = x0 + (k % 2) * (tw + gap), y = y0 + Math.floor(k / 2) * (th + gap)
@@ -77,7 +79,7 @@ function svg(s, t) {
     const x = lx + (k % 2) * (lw / 2), y = 156 + Math.floor(k / 2) * 34
     return `<circle cx="${x + 6}" cy="${y - 5}" r="6" fill="${t.bars[k % t.bars.length]}"/><text x="${x + 20}" y="${y}" font-family="M" font-weight="600" font-size="14" fill="${t.ink}">${esc(n)}<tspan font-weight="500" fill="${t.muted}">  ${p.toFixed(1)}%</tspan></text>`
   }).join('')
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Estadísticas de GitHub de Aliz: ${s.repos} repos públicos, ${s.commitsYear} commits este año, racha de ${s.streak} días. Lenguajes: ${s.langs.map(([n, p]) => `${n} ${p.toFixed(0)}%`).join(', ')}">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Estadísticas de GitHub de Aliz: ${s.repos} repos públicos, ${s.commitsYear} contribuciones este año, racha de ${s.streak} días. Lenguajes: ${s.langs.map(([n, p]) => `${n} ${p.toFixed(0)}%`).join(', ')}">
 <defs><style>${FONTS}</style><clipPath id="b"><rect x="${lx}" y="104" width="${lw}" height="14" rx="7"/></clipPath></defs>
 <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="24" fill="${t.bg}" stroke="${t.line}" stroke-width="2"/>
 <text x="32" y="58" font-family="P" font-weight="600" font-size="26" fill="${t.ink}">Mi GitHub en números</text>

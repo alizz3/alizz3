@@ -9,7 +9,6 @@
   <a href="https://aliz-mejia.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portafolio-oscuro.webp"><img src="assets/btn-portafolio-claro.webp" alt="Ver mi portafolio" height="42"></picture></a>
   <a href="https://www.linkedin.com/in/alizz-doblezz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-oscuro.webp"><img src="assets/btn-linkedin-claro.webp" alt="LinkedIn" height="42"></picture></a>
   <a href="mailto:dev.doblezz@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-correo-oscuro.webp"><img src="assets/btn-correo-claro.webp" alt="dev.doblezz@gmail.com" height="42"></picture></a>
-  <a href="https://buymeacoffee.com/alizz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cafe-oscuro.webp"><img src="assets/btn-cafe-claro.webp" alt="Invítame un café" height="42"></picture></a>
 </p>
 
 <br>
@@ -147,6 +146,10 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
   <i>"El mejor modo de predecir el futuro es inventándolo."</i> — Alan Kay
 </p>
 
+<br>
+
 <p align="center">
-  <sub>¿Te sirvió algo de lo que hago? <a href="https://buymeacoffee.com/alizz">Invítame un café</a> y me ayudas a seguir construyendo.</sub>
+  <sub>¿Te sirvió algo de lo que hago? Invítame un café y me ayudas a seguir construyendo.</sub>
+  <br><br>
+  <a href="https://buymeacoffee.com/alizz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-cafe-oscuro.webp"><img src="assets/btn-cafe-claro.webp" alt="Invítame un café" height="42"></picture></a>
 </p>
