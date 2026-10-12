@@ -5,13 +5,13 @@
   </picture>
 </a>
 
+<br>
+
 <p align="center">
   <a href="https://aliz-mejia.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portafolio-oscuro.webp"><img src="assets/btn-portafolio-claro.webp" alt="Ver mi portafolio" height="42"></picture></a>
   <a href="https://www.linkedin.com/in/alizz-doblezz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-oscuro.webp"><img src="assets/btn-linkedin-claro.webp" alt="LinkedIn" height="42"></picture></a>
   <a href="mailto:dev.doblezz@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-correo-oscuro.webp"><img src="assets/btn-correo-claro.webp" alt="dev.doblezz@gmail.com" height="42"></picture></a>
 </p>
-
-<br>
 
 ## ✦ Hola, soy Aliz
 
