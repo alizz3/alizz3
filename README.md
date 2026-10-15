@@ -15,6 +15,10 @@
 
 ## ✦ Hola, soy Aliz
 
+<p align="center">
+  <img src="assets/ilustracion.webp" alt="Ilustración de Aliz programando en su portátil, junto a un perrito negro y un gatito" width="640">
+</p>
+
 Desarrolladora de software de Bogotá, Colombia, trabajando freelance y en remoto. Construyo aplicaciones web de punta a punta: **tiendas, dashboards e integraciones con APIs** que hoy usan personas reales. Me importa tanto la base de datos como el logo.
 
 <p align="center">
