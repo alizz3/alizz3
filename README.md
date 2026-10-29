@@ -66,6 +66,10 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
 ## ✦ Más proyectos
 
 <p align="center">
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/torqueos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-torqueos-oscuro.webp"><img src="assets/proyecto-torqueos-claro.webp" alt="TorqueOS: sistema de gestión para talleres de motos y carros, con Vue 3, TypeScript y Supabase" width="49%"></picture></a>
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/pique"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-pique-oscuro.webp"><img src="assets/proyecto-pique-claro.webp" alt="Pique: app propia para moteros independientes, con reservas, tarjeta digital con QR y panel" width="49%"></picture></a>
+</p>
+<p align="center">
   <a href="https://aliz-mejia.vercel.app/#/proyecto/el-taller-de-vane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-el-taller-de-vane-oscuro.webp"><img src="assets/proyecto-el-taller-de-vane-claro.webp" alt="El Taller de Vane: tienda en línea y dashboard de pedidos con React y Firebase" width="49%"></picture></a>
   <a href="https://aliz-mejia.vercel.app/#/proyecto/exe-presentaciones"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-exe-presentaciones-oscuro.webp"><img src="assets/proyecto-exe-presentaciones-claro.webp" alt=".EXE: presentaciones web con control remoto desde el celular, sincronizadas en tiempo real" width="49%"></picture></a>
 </p>
@@ -83,9 +87,12 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
 
 | Proyecto | Qué es | Con qué |
 |---|---|---|
+| [Nivela](https://aliz-mejia.vercel.app/#/proyecto/nivela) | Finanzas personales con asistente en Telegram (antes MotoCoach) | React · Firebase · Groq |
+| [Vamos donde Nata](https://aliz-mejia.vercel.app/#/proyecto/vamos-donde-nata) | Menú digital para un negocio de comidas en Villavicencio | Vite · JSON · PWA |
+| [Tarjetas digitales](https://aliz-mejia.vercel.app/#/proyecto/tarjetas-digitales) | Invitaciones web para cumpleaños, bodas y XV años | HTML · CSS · JavaScript |
+| [Bio link](https://aliz-mejia.vercel.app/#/proyecto/bio-link) | Mi página de enlaces para redes, versión profesional y personal | HTML · CSS · JavaScript |
 | [Módulos para Odoo 16](https://aliz-mejia.vercel.app/#/proyecto/odoo-andrec) | Reglas de negocio dentro del ERP de Andrec | Python · ORM de Odoo |
 | [Colaxis](https://aliz-mejia.vercel.app/#/proyecto/colaxis) | Sitio corporativo para cliente B2B (Colombia y Ecuador) | HTML · CSS · JavaScript |
-| [MotoCoach](https://aliz-mejia.vercel.app/#/proyecto/motocoach) | Finanzas para repartidores en moto | React · Firebase |
 | [TearSpa](https://aliz-mejia.vercel.app/#/proyecto/tearspa) | Tienda con panel de productos, usuarios y ventas | PHP · MySQL |
 
 <p align="center"><a href="https://aliz-mejia.vercel.app/#/proyectos"><b>Todos los proyectos, con filtros →</b></a></p>
@@ -112,15 +119,21 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
 
 | Tecnología | Dónde la usé |
 |---|---|
-| **Vue 3** | MuMu · Maletica |
-| **React** | El Taller de Vane · Cuidapp · MotoCoach |
-| **Firebase** (Auth, Firestore, Storage, Realtime DB) | MuMu · El Taller de Vane · .EXE · Emily Pizza · Cuidapp · Maletica |
+| **Vue 3** | MuMu · TorqueOS · Pique · Maletica |
+| **React** | El Taller de Vane · Cuidapp · Nivela |
+| **TypeScript** | TorqueOS |
+| **Firebase** (Auth, Firestore, Storage, Realtime DB, Cloud Messaging) | MuMu · El Taller de Vane · .EXE · Emily Pizza · Cuidapp · Maletica · Pique · Nivela |
+| **Supabase** (PostgreSQL con permisos por fila) | TorqueOS |
 | **APIs de Google** (Gmail, Calendar, Classroom) y **Moodle** | MuMu |
-| **Funciones serverless** (Vercel) | MuMu |
+| **Funciones serverless** (Vercel) | MuMu · Pique · Nivela · TorqueOS |
+| **Bots de Telegram** | Nivela · Pique |
+| **IA** (Groq, Gemini) | MuMu · Nivela |
+| **Mapas** (OpenStreetMap, Leaflet) | Pique |
 | **Python** · **Odoo 16** | Módulos para Andrec |
 | **PHP** · **MySQL** | TearSpa · Laser Center |
-| **Tailwind CSS** | Cuidapp |
-| **PWA** (instalable, service worker) | MuMu · .EXE · Emily Pizza |
+| **Tailwind CSS** | TorqueOS · Cuidapp |
+| **PWA** (instalable, service worker) | MuMu · TorqueOS · Pique · Vamos donde Nata · .EXE · Emily Pizza |
+| **Android** (Java, widget y alarma) | MuMu |
 | **OCR** (Tesseract.js) | Cuidapp |
 | **Figma** | Diseño de interfaces y marca |
 
