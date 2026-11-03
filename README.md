@@ -78,12 +78,15 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
   <a href="https://aliz-mejia.vercel.app/#/proyecto/cuidapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-cuidapp-oscuro.webp"><img src="assets/proyecto-cuidapp-claro.webp" alt="Cuidapp: app de acompañamiento de salud con lectura de medicamentos por foto" width="49%"></picture></a>
 </p>
 
+<p align="center">
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/odoo-andrec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-odoo-andrec-oscuro.webp"><img src="assets/proyecto-odoo-andrec-claro.webp" alt="Módulos para Odoo 16: reglas de negocio en Python dentro del ERP de Andrec" width="49%"></picture></a>
+  <a href="https://aliz-mejia.vercel.app/#/proyecto/maletica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-maletica-oscuro.webp"><img src="assets/proyecto-maletica-claro.webp" alt="Maletica: planeador de maleta y outfits con Vue 3 y Firebase" width="49%"></picture></a>
+</p>
+<p align="center"><sub>El código de los módulos de Odoo está en <a href="https://github.com/alizz3/Odoo-Custom-Modules"><b>Odoo-Custom-Modules</b></a>.</sub></p>
+
 <details>
 <summary><b>Ver más proyectos</b></summary>
 <br>
-<p align="center">
-  <a href="https://aliz-mejia.vercel.app/#/proyecto/maletica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-maletica-oscuro.webp"><img src="assets/proyecto-maletica-claro.webp" alt="Maletica: planeador de maleta y outfits con Vue 3 y Firebase" width="49%"></picture></a>
-</p>
 
 | Proyecto | Qué es | Con qué |
 |---|---|---|
@@ -91,7 +94,6 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
 | [Vamos donde Nata](https://aliz-mejia.vercel.app/#/proyecto/vamos-donde-nata) | Menú digital para un negocio de comidas en Villavicencio | Vite · JSON · PWA |
 | [Tarjetas digitales](https://aliz-mejia.vercel.app/#/proyecto/tarjetas-digitales) | Invitaciones web para cumpleaños, bodas y XV años | HTML · CSS · JavaScript |
 | [Bio link](https://aliz-mejia.vercel.app/#/proyecto/bio-link) | Mi página de enlaces para redes, versión profesional y personal | HTML · CSS · JavaScript |
-| [Módulos para Odoo 16](https://aliz-mejia.vercel.app/#/proyecto/odoo-andrec) | Reglas de negocio dentro del ERP de Andrec | Python · ORM de Odoo |
 | [Colaxis](https://aliz-mejia.vercel.app/#/proyecto/colaxis) | Sitio corporativo para cliente B2B (Colombia y Ecuador) | HTML · CSS · JavaScript |
 | [TearSpa](https://aliz-mejia.vercel.app/#/proyecto/tearspa) | Tienda con panel de productos, usuarios y ventas | PHP · MySQL |
 
