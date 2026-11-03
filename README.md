@@ -82,7 +82,6 @@ Software developer from Bogotá, Colombia, working freelance and remote. I build
   <a href="https://aliz-mejia.vercel.app/#/proyecto/odoo-andrec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-odoo-andrec-oscuro.webp"><img src="assets/proyecto-odoo-andrec-claro.webp" alt="Módulos para Odoo 16: reglas de negocio en Python dentro del ERP de Andrec" width="49%"></picture></a>
   <a href="https://aliz-mejia.vercel.app/#/proyecto/maletica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-maletica-oscuro.webp"><img src="assets/proyecto-maletica-claro.webp" alt="Maletica: planeador de maleta y outfits con Vue 3 y Firebase" width="49%"></picture></a>
 </p>
-<p align="center"><sub>El código de los módulos de Odoo está en <a href="https://github.com/alizz3/Odoo-Custom-Modules"><b>Odoo-Custom-Modules</b></a>.</sub></p>
 
 <details>
 <summary><b>Ver más proyectos</b></summary>
